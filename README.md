@@ -11,7 +11,6 @@ Modular Bot is a modular irc bot written in node.js, It has an advanced parsers,
 Modular Bot uses a number of open source projects to work properly:
 
 * [node.js] - Evented I/O for the backend.
-* [needle] - The leanest and most handsome HTTP client in the Nodelands.
 * [irc] - Modern IRC client library for Node.
 * [irc-colors] - Color and formatting for irc bots made easy.
 * [cline] - Command-line apps building library for Node.
@@ -39,8 +38,8 @@ to get you started
 ### Plugins
 
 Modular Bot is currently extended with the following plugins
-* mongoose
-* needle
+* [mongoose] - Elegant mongodb object modeling for node.js
+* [needle] - The leanest and most handsome HTTP client in the Nodelands.
 
 ### Todo's
 
