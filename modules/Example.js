@@ -35,5 +35,10 @@ module.exports = {
         Bot.on('invite', function(invite) {
             Bot.Join(invite.channel);
         });
+        
+        // Timers
+        Bot.Timer(function() {
+            // This triggers every 5 seconds!
+        }, 5000);
     }
 };
