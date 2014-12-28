@@ -1,6 +1,6 @@
 # Modular Bot (node.js)
 
-Modular Bot is a modular irc bot written in node.js, It has an advanced parsers, timers, events and a permssion system.
+Modular Bot is a modular irc bot written in node.js, It has an advanced parsers, timers, events and a permission system.
 
 ### Version
 
