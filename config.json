@@ -1,0 +1,24 @@
+{
+    "irc": {
+        "ident"   : "ModularBot",
+        "name"    : "Modular Bot",
+        "nick"    : "ModularBot",
+        "autoconnect": true,
+        "server"  : {
+            "hostname": "chat.freenode.net",
+            "port"    : 6667,
+            "channels": ["##ModularBot"]
+        },
+        "invite"  : {
+            "join": false
+        }
+    },
+    "authentication" : {
+        "provider": "NickServ"
+    },
+    "database": {
+        "hostname": "localhost",
+        "path"    : "bot.db",
+        "require" : false
+    }
+}

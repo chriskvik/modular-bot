@@ -1,0 +1,15 @@
+{
+  "name": "modular-bot",
+  "version": "0.0.1",
+  "description": "Modular node.js irc bot with advanced parser, database, permissions and module support.",
+  "main": "bot.js",
+  "repository": "",
+  "author": "Daniel Gothenborg <daniel@dgw.no>",
+  "dependencies": {
+    "irc"       : "0.3.x",
+    "irc-colors": "1.1.x",
+    "needle"    : "0.7.x",
+    "cline"     : "0.8.x",
+    "mongoose"  : "3.8.x"
+  }
+}

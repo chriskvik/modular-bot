@@ -1,0 +1,13 @@
+#Logs
+.logs
+*.log
+
+#Database file
+bot.db
+
+#NodeJS dependencies
+node_modules/
+
+#Ignore Cloud9 Directory
+/.c9/
+.c9
