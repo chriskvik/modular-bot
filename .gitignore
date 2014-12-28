@@ -2,9 +2,6 @@
 .logs
 *.log
 
-#Database file
-bot.db
-
 #NodeJS dependencies
 node_modules/
 
